@@ -1,1 +1,1 @@
-# https://gem-game.github.io
+https://gem-game.github.io
