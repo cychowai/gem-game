@@ -1,1 +1,1 @@
-https://gem-game.github.io
+https://cychowai.github.io/gem-game/
